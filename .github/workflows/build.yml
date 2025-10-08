@@ -21,7 +21,12 @@ jobs:
       files: |
         m5stack/m5stack-atom-echo.factory.yaml
         m5stack/m5stack-atom-speaker-kit.factory.yaml
+        m5stack/m5stack-atom-echo.yaml
+        m5stack/m5stack-atom-speaker-kit.yaml
+        onju-voice/onju-voice.yaml
         onju-voice/onju-voice.factory.yaml
+        raspiaudio/raspiaudio-muse-luxe.yaml
+        raspiaudio/raspiaudio-muse-proto.yaml
         raspiaudio/raspiaudio-muse-luxe.factory.yaml
         raspiaudio/raspiaudio-muse-proto.factory.yaml
       esphome-version: 2025.2.2
